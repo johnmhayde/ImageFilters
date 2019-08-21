@@ -3,7 +3,7 @@
 This program allows the user to apply many common image filters to the given PPM image. This image is given in the SRC file, but could be changed (keep same images name or change command-line argument in makefile) to work with other PPM images. The program currently produces a new copy of the image with each filter.
 
 ## Running the Program
-Make sure the makefile and the directory are both setup properly. Then, run the program through these commands:
+Make sure the makefile and directory are both setup properly. Then, run the program through these commands:
 ```
 make
 make run
